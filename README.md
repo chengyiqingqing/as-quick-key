@@ -47,3 +47,10 @@ Android Studio 工具使用篇；
   
   4.就是debug；
   
+## git之类在android中的协作关系。
+
+ 1.首先是ssh的配置；
+
+ 2.是git正在android studio中的路径配置。
+ 
+ 3.就是android adb终端的设置。

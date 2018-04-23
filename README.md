@@ -36,4 +36,14 @@ Android Studio 工具使用篇；
   16.alt + f7; 某变量用法；
   
   18.就是全局搜索。
+  
+## other tool
+ 
+  1.android devices monitor :查看进程间的信息；
   
+  2.android profile : 查看内存及cpu的占用情况；
+  
+  3.ddms: 查看data/data/下的数据；
+  
+  4.就是debug；
+  
